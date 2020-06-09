@@ -1,0 +1,7 @@
+div.BackGround {
+    background:orange;
+    height:80%;width:80%;
+    position:absolute;
+    border-radius: 5%;
+    opacity: 0.5;
+}
